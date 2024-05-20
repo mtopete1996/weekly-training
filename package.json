@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mtopete1996/weekly-training/issues"
   },
-  "homepage": "https://github.com/mtopete1996/weekly-training#readme"
+  "homepage": "https://github.com/mtopete1996/weekly-training#readme",
+  "dependencies": {
+    "@hapi/hapi": "^21.3.9"
+  }
 }
