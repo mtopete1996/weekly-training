@@ -1,0 +1,19 @@
+{
+  "name": "weekly-training",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mtopete1996/weekly-training.git"
+  },
+  "author": "Manuel Topete",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mtopete1996/weekly-training/issues"
+  },
+  "homepage": "https://github.com/mtopete1996/weekly-training#readme"
+}
