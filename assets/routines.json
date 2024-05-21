@@ -1,0 +1,138 @@
+{
+  "monday": {
+    "exercises": [
+      {
+        "name": "Press de banca",
+        "sets": 4,
+        "reps": "8-12",
+        "bodyPart": "Pecho"
+      },
+      {
+        "name": "Fondos en paralelas",
+        "sets": 3,
+        "reps": "8-12",
+        "bodyPart": "Pecho"
+      },
+      {
+        "name": "Press de pecho con mancuernas",
+        "sets": 3,
+        "reps": "10-15",
+        "bodyPart": "Pecho"
+      },
+      {
+        "name": "Extensiones de tríceps con polea alta",
+        "sets": 3,
+        "reps": "10-15",
+        "bodyPart": "Tríceps"
+      },
+      {
+        "name": "Fondos de tríceps en máquina",
+        "sets": 3,
+        "reps": "10-15",
+        "bodyPart": "Tríceps"
+      }
+    ]
+  },
+  "tuesday": {
+    "exercises": [
+      {
+        "name": "Dominadas",
+        "sets": 4,
+        "reps": "8-12",
+        "bodyPart": "Espalda"
+      },
+      {
+        "name": "Remo con barra",
+        "sets": 4,
+        "reps": "8-12",
+        "bodyPart": "Espalda"
+      },
+      {
+        "name": "Pull-ups en polea alta",
+        "sets": 3,
+        "reps": "10-15",
+        "bodyPart": "Espalda"
+      },
+      {
+        "name": "Curl de bíceps con barra recta",
+        "sets": 3,
+        "reps": "10-15",
+        "bodyPart": "Bíceps"
+      },
+      {
+        "name": "Curl de bíceps con mancuernas",
+        "sets": 3,
+        "reps": "10-15",
+        "bodyPart": "Bíceps"
+      }
+    ]
+  },
+  "wednesday": {
+    "restDay": true
+  },
+  "thursday": {
+    "exercises": [
+      {
+        "name": "Sentadillas",
+        "sets": 4,
+        "reps": "8-12",
+        "bodyPart": "Piernas"
+      },
+      {
+        "name": "Prensa de piernas",
+        "sets": 4,
+        "reps": "8-12",
+        "bodyPart": "Piernas"
+      },
+      {
+        "name": "Extensiones de cuádriceps",
+        "sets": 3,
+        "reps": "10-15",
+        "bodyPart": "Piernas"
+      },
+      {
+        "name": "Curl de piernas (femorales)",
+        "sets": 3,
+        "reps": "10-15",
+        "bodyPart": "Piernas"
+      },
+      {
+        "name": "Elevación de talones de pie",
+        "sets": 3,
+        "reps": "12-15",
+        "bodyPart": "Piernas"
+      }
+    ]
+  },
+  "friday": {
+    "restDay": true
+  },
+  "saturday": {
+    "exercises": [
+      {
+        "name": "Peso muerto rumano",
+        "sets": 4,
+        "reps": "8-12",
+        "bodyPart": "Piernas"
+      },
+      {
+        "name": "Hip Thrust",
+        "sets": 4,
+        "reps": "8-12",
+        "bodyPart": "Piernas"
+      },
+      {
+        "name": "Zancadas con mancuernas",
+        "sets": 3,
+        "reps": "10-15",
+        "bodyPart": "Piernas"
+      },
+      {
+        "name": "Elevación de talones sentado",
+        "sets": 4,
+        "reps": "10-15",
+        "bodyPart": "Piernas"
+      }
+    ]
+  }
+}
