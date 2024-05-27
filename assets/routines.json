@@ -68,7 +68,7 @@
     ]
   },
   "wednesday": {
-    "restDay": true
+    "isRestDay": true
   },
   "thursday": {
     "exercises": [
@@ -105,7 +105,7 @@
     ]
   },
   "friday": {
-    "restDay": true
+    "isRestDay": true
   },
   "saturday": {
     "exercises": [
@@ -134,5 +134,8 @@
         "bodyPart": "Piernas"
       }
     ]
+  },
+  "sunday": {
+    "isRestDay": true
   }
 }

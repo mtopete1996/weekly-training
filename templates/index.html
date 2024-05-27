@@ -1,1 +1,6 @@
-<h1>{{title}}</h1>
+{{#each exercises}}
+  <div class="routine flex justify-between py-5 w-full">
+    <p class="text-6xl w-2/4">{{sets}}x{{reps}}</p>
+    <h2 class="text-right w-2/4 text-lg">{{name}}</h2>
+  </div>
+{{/each}}
