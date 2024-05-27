@@ -1,19 +1,9 @@
 "use strict"
 
-const Hapi = require("@hapi/hapi")
 const Path = require("path")
 const dayjs = require("dayjs")
 const Handlebars = require("handlebars")
-
-const server = Hapi.server({
-  port: 3000,
-  host: "localhost",
-  routes: {
-    files: {
-      relativeTo: Path.join(__dirname, "assets"),
-    },
-  },
-})
+const server = require('./server.js')
 
 const weekday = dayjs().format("dddd")
 
